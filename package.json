@@ -1,0 +1,26 @@
+{
+  "name": "coding-bootcamp-testimonials-slider-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrii2111/Coding-bootcamp-testimonials-slider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitrii2111/Coding-bootcamp-testimonials-slider/issues"
+  },
+  "homepage": "https://github.com/Dmitrii2111/Coding-bootcamp-testimonials-slider#readme",
+  "dependencies": {
+    "st": "^2.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.32.7"
+  }
+}
